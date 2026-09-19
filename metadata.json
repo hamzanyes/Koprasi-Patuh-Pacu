@@ -1,0 +1,6 @@
+{
+  "name": "Koperasi Patuh Pacu",
+  "description": "Aplikasi pengelolaan Koperasi Patuh Pacu berbasis Google Apps Script dengan fitur simpanan, pinjaman, tunggakan jatuh tempo, laba rugi, laporan bulanan, pembagian SHU 50:50, data anggota, dan profil koperasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
